@@ -6,6 +6,9 @@ The **Smart MediBox** is an embedded systems project designed to provide an inte
 
 This project leverages the ESP32 microcontroller to build a smart medicine box that manages alarms, monitors environmental conditions, and adjusts light exposure. It also integrates with **Node-RED** for real-time data visualization and remote interaction.
 
+![block_diagram](Images/Medibox.png)
+
+
 ## Features
 
 ### Core Functionalities
