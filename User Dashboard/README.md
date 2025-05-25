@@ -31,3 +31,4 @@ The Smart Medibox User Dashboard allows users to:
 ![block_diagram](Images/Medibox_Dashboard.png)
 
 
+
