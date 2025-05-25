@@ -29,6 +29,6 @@ The Smart Medibox User Dashboard allows users to:
 - Easy-to-read charts for tracking changes and identifying patterns.
   
 
-
+![User_Dashboard](Images/Medibox_Dashboard.png)
 
 
