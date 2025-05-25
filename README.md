@@ -88,5 +88,5 @@ The Node-RED dashboard provides a user-friendly interface for visualizing and in
 - Historical data: View historical trends of sensor data to analyze environmental conditions over time.
 
 ### Contact
-For any clarifications or inquiries, please feel free to contact me at [mihiruth@gmail.com](mailto:lahirdulsara@gmail.com).
+For any clarifications or inquiries, please feel free to contact me at [lahirdulsara@gmail.com](mailto:lahirdulsara@gmail.com).
 
